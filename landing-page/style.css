@@ -242,6 +242,10 @@ p {
   background-color: var(--opacity-color);
 }
 
+.hero-image-content {
+  width: 100%;
+}
+
 .hero-image-title {
   font-size: 7.5vw;
   color: var(--color);
